@@ -10,6 +10,8 @@ This repository contains all the project files for the YouTube series [Android 1
 3. Making a Basic Android Application
 	- [Video](https://youtu.be/CqnGIB1GjNI)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/03%20-%20Clickocounter)
+4. Download Course Files From GitHub
+	- [Video](https://youtu.be/vH-mksdoxPE)
 
 ## Important Links
 - [YouTube Channel](https://www.youtube.com/channel/UC4Kdkv8had_gdLwypQ5d4BQ/)
