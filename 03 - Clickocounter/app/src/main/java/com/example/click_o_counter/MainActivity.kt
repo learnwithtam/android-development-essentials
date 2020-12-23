@@ -18,14 +18,10 @@ class MainActivity : AppCompatActivity() {
         clickMeButton = findViewById(R.id.clickMeButton)
 
         clickMeButton.setOnClickListener{
-            clicked()
+            var currentCount = countText.text.toString().toInt()
+            var newCount = currentCount + 1
+            countText.text = newCount.toString()
 
         }
-    }
-
-    fun clicked(){
-        var currentCount = countText.text.toString().toInt()
-        var newCount = currentCount + 1
-        countText.text = newCount.toString()
     }
 }
