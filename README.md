@@ -12,6 +12,9 @@ This repository contains all the project files for the YouTube series [Android 1
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/03%20-%20Clickocounter)
 4. Download Course Files From GitHub
 	- [Video](https://youtu.be/vH-mksdoxPE)
+5. Activity, States, and Lifecycle Methods
+	- [Video](https://youtu.be/KnGJfGmfIQE)
+	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/05%20-%20Activity%20Lifecycle)
 
 ## Important Links
 - [YouTube Channel](https://www.youtube.com/channel/UC4Kdkv8had_gdLwypQ5d4BQ/)
