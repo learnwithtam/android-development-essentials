@@ -15,10 +15,16 @@ This repository contains all the project files for the YouTube series [Android 1
 5. Activity, States, and Lifecycle Methods
 	- [Video](https://youtu.be/KnGJfGmfIQE)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/05%20-%20Activity%20Lifecycle)
+6. Activity Lifecycle Methods - Practical
+	- [Video](https://youtu.be/qgPkmuW1iRA)
+	- [Activity Lifecycle Methods]()
+	- [Click Counter - Bug fixed]()
 
 ## Important Links
 - [YouTube Channel](https://www.youtube.com/channel/UC4Kdkv8had_gdLwypQ5d4BQ/)
 - [Instagram](https://www.instagram.com/learnwithtam)
+- [Facebook](https://www.facebook.com/learnwithtam)
+- [Patreon](https://www.patreon.com/learnwithtam)
 - [Twitter](https://www.twitter.com/learnwithtam)
 - [GitHub](https://www.github.com/learnwithtam)
 
