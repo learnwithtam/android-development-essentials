@@ -19,9 +19,12 @@ This repository contains all the project files for the YouTube series [Android 1
 	- [Video](https://youtu.be/qgPkmuW1iRA)
 	- [Activity Lifecycle Methods](https://github.com/learnwithtam/android-development-essentials/tree/main/06%20-%20Activity%20Lifecycle%20Methods)
 	- [Click-o-Counter - Bug fixed](https://github.com/learnwithtam/android-development-essentials/tree/main/06%20-%20Click-o-counter)
-7. Basics of Kotlin for Android Developers
+7. Kotlin Tutorial for Android Developers
 	- [Video](https://youtu.be/E6jJYIbGEJw)
-	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/07%20-%20KotlinDataTypes)
+	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/07%20-%20BasicsOfKotlin)
+8. Kotlin Tutorial for Android Developers - Part 2
+	- [Video](https://youtu.be/lHcP6mTjxUc)
+	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/08%20-%20BasicsOfKotlin)
 
 ## Important Links
 - [YouTube Channel](https://www.youtube.com/channel/UC4Kdkv8had_gdLwypQ5d4BQ/)
