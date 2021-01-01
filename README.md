@@ -25,6 +25,9 @@ This repository contains all the project files for the YouTube series [Android 1
 8. Kotlin Tutorial for Android Developers - Part 2
 	- [Video](https://youtu.be/lHcP6mTjxUc)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/08%20-%20BasicsOfKotlin)
+9. Kotlin Tutorial for Android Developers - Part 3
+	- [Video](https://youtu.be/gV2jB4OHuXQ)
+	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/09%20-%20EscapeSequenceandmore)
 
 ## Important Links
 - [YouTube Channel](https://www.youtube.com/channel/UC4Kdkv8had_gdLwypQ5d4BQ/)
