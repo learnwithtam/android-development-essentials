@@ -28,6 +28,9 @@ This repository contains all the project files for the YouTube series [Android 1
 9. Kotlin Tutorial for Android Developers - Part 3
 	- [Video](https://youtu.be/gV2jB4OHuXQ)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/09%20-%20EscapeSequenceandmore)
+10. Nullability in Kotlin - Kotlin Tutorial for Android Developers - Part 4
+	- [Video](https://youtu.be/GySKbGa5J9o)
+	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/10%20-%20NullableTypes)
 
 ## Important Links
 - [YouTube Channel](https://www.youtube.com/channel/UC4Kdkv8had_gdLwypQ5d4BQ/)
