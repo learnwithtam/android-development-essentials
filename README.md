@@ -34,7 +34,7 @@ This repository contains all the project files for the YouTube series [Android 1
 11. Operators and Expressions in Kotlin - Kotlin Tutorial for Android Developers - Part 5
 	- [Video](https://youtu.be/jJeoOc6IoHw)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/11%20-%20OperatorsandExpressions)
-12. Conditionals: If, Else, and When Expressions - Kotlin Tutorial for Android Developers - Part 6
+12. Conditionals: If, Else, and When - Kotlin Tutorial for Android Developers - Part 6
 	- [Video](https://youtu.be/K_3hAdJSlMo)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/12%20-%20ControlFlowExpressions)
 
