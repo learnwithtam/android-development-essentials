@@ -45,3 +45,5 @@ This repository contains all the project files for the YouTube series [Android 1
 
 ## Contributors
 - Tarique Ali Mirza
+
+<meta name="google-site-verification" content="lJKaPIi93QVHMjEiKBj8c8ETufZp5LqNW9j47e-i5ZQ" />
