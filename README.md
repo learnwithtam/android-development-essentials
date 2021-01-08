@@ -31,9 +31,12 @@ This repository contains all the project files for the YouTube series [Android 1
 10. Nullability in Kotlin - Kotlin Tutorial for Android Developers - Part 4
 	- [Video](https://youtu.be/GySKbGa5J9o)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/10%20-%20NullableTypes)
-10. Operators and Expressions in Kotlin - Kotlin Tutorial for Android Developers - Part 5
+11. Operators and Expressions in Kotlin - Kotlin Tutorial for Android Developers - Part 5
 	- [Video](https://youtu.be/jJeoOc6IoHw)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/11%20-%20OperatorsandExpressions)
+12. Conditionals: If, Else, and When Expressions - Kotlin Tutorial for Android Developers - Part 6
+	- [Video](https://youtu.be/K_3hAdJSlMo)
+	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/12%20-%20ControlFlowExpressions)
 
 ## Important Links
 - [YouTube Channel](https://www.youtube.com/channel/UC4Kdkv8had_gdLwypQ5d4BQ/)
