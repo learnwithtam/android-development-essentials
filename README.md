@@ -37,6 +37,9 @@ This repository contains all the project files for the YouTube series [Android 1
 12. Conditionals: If, Else, and When - Kotlin Tutorial for Android Developers - Part 6
 	- [Video](https://youtu.be/K_3hAdJSlMo)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/12%20-%20ControlFlowExpressions)
+13. Loops: For, While, and Do-While - Kotlin Tutorial for Android Developers - Part 7
+	- [Video](https://youtu.be/D26JG9Kpz1w)
+	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/13%20-%20LoopsInKotlin)
 
 ## Important Links
 - [YouTube Channel](https://www.youtube.com/channel/UC4Kdkv8had_gdLwypQ5d4BQ/)
