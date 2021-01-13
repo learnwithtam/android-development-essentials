@@ -40,7 +40,7 @@ This repository contains all the project files for the YouTube series [Android 1
 13. Loops: For, While, and Do-While - Kotlin Tutorial for Android Developers - Part 7
 	- [Video](https://youtu.be/D26JG9Kpz1w)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/13%20-%20LoopsInKotlin)
-14. Ordered Collections: Lists - Kotlin Tutorial for Android Developers - Part 7
+14. Ordered Collections: Lists - Kotlin Tutorial for Android Developers - Part 8
 	- [Video](https://youtu.be/cnEcZoAdAMI)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/14%20-%20Lists)
 
