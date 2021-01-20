@@ -43,6 +43,12 @@ This repository contains all the project files for the YouTube series [Android 1
 14. Ordered Collections: Lists - Kotlin Tutorial for Android Developers - Part 8
 	- [Video](https://youtu.be/cnEcZoAdAMI)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/14%20-%20Lists)
+15. Mutable Lists and Iterators - Kotlin Tutorial for Android Developers - Part 9
+	- [Video](https://youtu.be/w1mCFhLV898)
+	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/15%20-%20MutableListsandIterators)
+16. Unordered Collections: Sets - Kotlin Tutorial for Android Developers - Part 10
+	- [Video](https://youtu.be/N3cldpGrEEI)
+	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/16%20-%20Sets)
 
 ## Important Links
 - [YouTube Channel](https://www.youtube.com/channel/UC4Kdkv8had_gdLwypQ5d4BQ/)
