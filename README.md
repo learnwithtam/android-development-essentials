@@ -52,6 +52,9 @@ This repository contains all the project files for the YouTube series [Android 1
 17. How to work with Maps in Kotlin
 	- [Video](https://youtu.be/OQdmZKaos3g)
 	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/17%20-%20Maps)
+18. How to create and use Functions in Kotlin
+	- [Video](https://youtu.be/xYhcqkJGjXM)
+	- [Project Files](https://github.com/learnwithtam/android-development-essentials/tree/main/18%20-%20Functions)
 
 ## Important Links
 - [YouTube Channel](https://www.youtube.com/channel/UC4Kdkv8had_gdLwypQ5d4BQ/)
